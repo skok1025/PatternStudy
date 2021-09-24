@@ -1,4 +1,4 @@
-package strategy_pattern;
+package __strategy_pattern;
 
 public class GameCharacter {
 	private Weapon weapon;
